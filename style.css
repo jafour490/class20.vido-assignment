@@ -1,0 +1,21 @@
+.navbar {
+  background-color: aquamarine;
+}
+.navbar-brand img {
+  width: 85px;
+}
+.carousel-item img {
+  height: 550px;
+}
+.progress {
+  margin-bottom: 12px;
+}
+.scrollspy-example {
+  position: relative;
+  height: 200px;
+  margin-top: 0.5rem;
+  overflow: auto;
+}
+.footer-h {
+  padding: px;
+}
